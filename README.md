@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090014,30:30105C,65:512DA8,100:090014&text=MADHUSUDAN%20DEUJA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=13&animation=fadeIn" width="100%" />
@@ -221,7 +221,7 @@ The platform provides a digital registration process, allowing participants to r
 
 ## CURRENT FOCUS
 
-```yaml
+
 Learning:
   - Advanced React.js Development
   - Backend Architecture & REST API Design
@@ -250,7 +250,7 @@ Open To:
   - Open Source Contributions
   - Collaborative Development Projects
   - Technical Networking
-```
+
 
 ---
 
@@ -301,4 +301,4 @@ Whether it's software engineering, collaborative projects, open-source developme
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090014,30:30105C,65:512DA8,100:090014" width="100%" />
 
 </div>
-```
+
